@@ -5,5 +5,5 @@
 - Website: https://www.brd.rw
 
 # Projects
-  - https://minuza.brd.rw/
-  - http://iwanjye.brd.rw/
+  - https://minuza.brd.rw
+  - https://iwanjye.brd.rw
