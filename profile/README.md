@@ -6,4 +6,4 @@
 
 # Projects
   - https://minuza.brd.rw
-  - https://iwanjye.brd.rw
+  - https://giriwawe.brd.rw
